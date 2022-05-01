@@ -1,2 +1,4 @@
-# Estudos_em_Python
-estudos sobre python
+
+# Estudos em Python
+
+- Mundo 1: Programação Python
